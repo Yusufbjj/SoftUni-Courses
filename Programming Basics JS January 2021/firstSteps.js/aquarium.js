@@ -9,10 +9,6 @@ function demo(input){
     let percentageConverted = percentageUsed * 0.01;
     let litresNeeded = tankVolumeLitres * (1-percentageConverted);
 
-
-
-
-
     console.log(litresNeeded)
 
 

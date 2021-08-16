@@ -45,7 +45,6 @@ function problem1(input) {
             }
             console.log(str);
         }
-        
     }
 }
 problem1(["Mike123@somemail.com",

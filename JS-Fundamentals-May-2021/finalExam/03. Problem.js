@@ -68,13 +68,7 @@ problem3(["Add:Bonnie:3000:5",
     "Delete:Kent",
     "Results"])
 
-problem3(["Add:Bonnie:3000:5",
-    "Add:Johny:4000:10",
-    "Delete:All",
-    "Add:Bonnie:3333:3",
-    "Add:Aleks:1000:70",
-    "Add:Tom:4000:1",
-    "Results"])
+
 
 
 

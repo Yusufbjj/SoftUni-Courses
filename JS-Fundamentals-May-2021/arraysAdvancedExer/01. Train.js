@@ -16,7 +16,6 @@ function train(array) {
         }
     }
     console.log(wagons.join(" "));
-
 }
 train(['32 54 21 12 4 0 23',
     '75',

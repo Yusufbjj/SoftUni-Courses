@@ -49,6 +49,7 @@ function problem1(input) {
 }
 
 
+
 problem1(["Mike123@somemail.com",
 "Make Upper",
 "GetDomain 3",

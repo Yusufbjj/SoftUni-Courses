@@ -43,6 +43,8 @@ function problem3(input) {
             }
         }
         
+
+        
     }
     let sorted = Object.entries(battles).sort((a,b)=>b[1].health-a[1].health || a[0].localeCompare(b[0]));
     console.log(`People count: ${sorted.length}`);

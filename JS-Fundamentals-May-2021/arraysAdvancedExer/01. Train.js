@@ -9,11 +9,9 @@ function train(array) {
             command = Number(command);
             for (let index = 0; index < wagons.length; index++) {
 
-
                 if (Number(wagons[index]) + command <= capacity) {
                     wagons[index] = Number(wagons[index]) + command; break;
-                } 
-
+                }
             }
         }
     }

@@ -8,7 +8,6 @@ function problem3(input) {
             health = Number(health);
             energy = Number(energy);
             if (!battles[name]) {
-
                 battles[name] = {
                     health,
                     energy

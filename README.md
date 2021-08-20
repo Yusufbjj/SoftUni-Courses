@@ -1,1 +1,1 @@
-# SoftUni-Courses ala bala 
+# SoftUni-Courses 

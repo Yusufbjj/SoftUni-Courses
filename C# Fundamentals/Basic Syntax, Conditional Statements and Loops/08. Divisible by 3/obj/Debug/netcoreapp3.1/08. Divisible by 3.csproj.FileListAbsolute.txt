@@ -1,0 +1,13 @@
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.exe
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.deps.json
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.runtimeconfig.json
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.runtimeconfig.dev.json
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.dll
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.pdb
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.AssemblyInfoInputs.cache
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.AssemblyInfo.cs
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.csproj.CoreCompileInputs.cache
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.dll
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.pdb
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.genruntimeconfig.cache

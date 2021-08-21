@@ -1,0 +1,13 @@
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.exe
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.deps.json
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.runtimeconfig.json
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.runtimeconfig.dev.json
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.dll
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.pdb
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.AssemblyInfoInputs.cache
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.AssemblyInfo.cs
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.csproj.CoreCompileInputs.cache
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.dll
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.pdb
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.genruntimeconfig.cache

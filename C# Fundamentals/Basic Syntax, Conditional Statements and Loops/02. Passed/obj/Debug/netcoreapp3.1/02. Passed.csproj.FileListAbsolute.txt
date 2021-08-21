@@ -1,0 +1,14 @@
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.exe
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.deps.json
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.runtimeconfig.json
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.runtimeconfig.dev.json
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.dll
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\bin\Debug\netcoreapp3.1\02. Passed.pdb
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.AssemblyInfoInputs.cache
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.AssemblyInfo.cs
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.csproj.CoreCompileInputs.cache
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.dll
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.pdb
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.genruntimeconfig.cache
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\02. Passed\obj\Debug\netcoreapp3.1\02. Passed.csproj.AssemblyReference.cache

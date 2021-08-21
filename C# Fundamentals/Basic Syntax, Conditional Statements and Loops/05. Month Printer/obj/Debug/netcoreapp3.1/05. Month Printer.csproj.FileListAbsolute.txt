@@ -1,0 +1,13 @@
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.exe
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.deps.json
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.runtimeconfig.json
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.runtimeconfig.dev.json
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.dll
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\bin\Debug\netcoreapp3.1\05. Month Printer.pdb
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.AssemblyInfoInputs.cache
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.AssemblyInfo.cs
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.csproj.CoreCompileInputs.cache
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.dll
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.pdb
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\05. Month Printer\obj\Debug\netcoreapp3.1\05. Month Printer.genruntimeconfig.cache

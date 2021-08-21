@@ -11,10 +11,10 @@ namespace _04._Back_In_30_Minutes
 
             if (minutes > 59)
             {
-                hours += 1;
-                minutes -= 60;
-            }
-            if (hours > 23)
+                hours += 1;                                    
+                minutes -= 60;                                 
+            }                                                  
+            if (hours > 23)                                    
             {
                 hours = 0;
 

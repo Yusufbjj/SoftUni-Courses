@@ -1,0 +1,13 @@
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.exe
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.deps.json
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.runtimeconfig.json
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.runtimeconfig.dev.json
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.dll
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\06. Foreign Languages\bin\Debug\netcoreapp3.1\06. Foreign Languages.pdb
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.AssemblyInfoInputs.cache
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.AssemblyInfo.cs
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.dll
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.pdb
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\06. Foreign Languages\obj\Debug\netcoreapp3.1\06. Foreign Languages.genruntimeconfig.cache

@@ -11,10 +11,8 @@ namespace _12._Even_Number
             {
                 Console.WriteLine("Please write an even number.");
                 n = int.Parse(Console.ReadLine());
-               
             }
             Console.WriteLine($"The number is: {Math.Abs(n)}");
-
 
         }
     }

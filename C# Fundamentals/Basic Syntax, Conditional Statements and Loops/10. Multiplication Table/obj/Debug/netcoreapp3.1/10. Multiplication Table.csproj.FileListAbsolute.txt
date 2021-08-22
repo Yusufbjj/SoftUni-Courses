@@ -1,0 +1,13 @@
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.exe
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.deps.json
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.runtimeconfig.json
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.runtimeconfig.dev.json
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.dll
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.pdb
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.AssemblyInfoInputs.cache
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.AssemblyInfo.cs
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.dll
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.pdb
+C:\Software-University\C# Fundamentals\Basic Syntax, Conditional Statements and Loops\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.genruntimeconfig.cache

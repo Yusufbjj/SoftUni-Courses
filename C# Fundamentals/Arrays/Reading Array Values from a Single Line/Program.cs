@@ -11,6 +11,5 @@ namespace Reading_Array_Values_from_a_Single_Line
             Console.WriteLine(string.Join("-", arr));
 
         }
-
     }
 }

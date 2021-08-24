@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Reading Array Values from a Single Line/1.0.0": {
+        "runtime": {
+          "Reading Array Values from a Single Line.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reading Array Values from a Single Line/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

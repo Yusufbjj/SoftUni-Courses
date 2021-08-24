@@ -1,0 +1,13 @@
+C:\Software-University\C# Fundamentals\Arrays\Reading Array Values from a Single Line\bin\Debug\netcoreapp3.1\Reading Array Values from a Single Line.exe
+C:\Software-University\C# Fundamentals\Arrays\Reading Array Values from a Single Line\bin\Debug\netcoreapp3.1\Reading Array Values from a Single Line.deps.json
+C:\Software-University\C# Fundamentals\Arrays\Reading Array Values from a Single Line\bin\Debug\netcoreapp3.1\Reading Array Values from a Single Line.runtimeconfig.json
+C:\Software-University\C# Fundamentals\Arrays\Reading Array Values from a Single Line\bin\Debug\netcoreapp3.1\Reading Array Values from a Single Line.runtimeconfig.dev.json
+C:\Software-University\C# Fundamentals\Arrays\Reading Array Values from a Single Line\bin\Debug\netcoreapp3.1\Reading Array Values from a Single Line.dll
+C:\Software-University\C# Fundamentals\Arrays\Reading Array Values from a Single Line\bin\Debug\netcoreapp3.1\Reading Array Values from a Single Line.pdb
+C:\Software-University\C# Fundamentals\Arrays\Reading Array Values from a Single Line\obj\Debug\netcoreapp3.1\Reading Array Values from a Single Line.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-University\C# Fundamentals\Arrays\Reading Array Values from a Single Line\obj\Debug\netcoreapp3.1\Reading Array Values from a Single Line.AssemblyInfoInputs.cache
+C:\Software-University\C# Fundamentals\Arrays\Reading Array Values from a Single Line\obj\Debug\netcoreapp3.1\Reading Array Values from a Single Line.AssemblyInfo.cs
+C:\Software-University\C# Fundamentals\Arrays\Reading Array Values from a Single Line\obj\Debug\netcoreapp3.1\Reading Array Values from a Single Line.csproj.CoreCompileInputs.cache
+C:\Software-University\C# Fundamentals\Arrays\Reading Array Values from a Single Line\obj\Debug\netcoreapp3.1\Reading Array Values from a Single Line.dll
+C:\Software-University\C# Fundamentals\Arrays\Reading Array Values from a Single Line\obj\Debug\netcoreapp3.1\Reading Array Values from a Single Line.pdb
+C:\Software-University\C# Fundamentals\Arrays\Reading Array Values from a Single Line\obj\Debug\netcoreapp3.1\Reading Array Values from a Single Line.genruntimeconfig.cache

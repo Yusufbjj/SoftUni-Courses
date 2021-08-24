@@ -1,0 +1,14 @@
+C:\Software-University\C# Fundamentals\Arrays\ConsoleApp1\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.exe
+C:\Software-University\C# Fundamentals\Arrays\ConsoleApp1\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.deps.json
+C:\Software-University\C# Fundamentals\Arrays\ConsoleApp1\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.runtimeconfig.json
+C:\Software-University\C# Fundamentals\Arrays\ConsoleApp1\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+C:\Software-University\C# Fundamentals\Arrays\ConsoleApp1\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.dll
+C:\Software-University\C# Fundamentals\Arrays\ConsoleApp1\bin\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.pdb
+C:\Software-University\C# Fundamentals\Arrays\ConsoleApp1\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+C:\Software-University\C# Fundamentals\Arrays\ConsoleApp1\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-University\C# Fundamentals\Arrays\ConsoleApp1\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+C:\Software-University\C# Fundamentals\Arrays\ConsoleApp1\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+C:\Software-University\C# Fundamentals\Arrays\ConsoleApp1\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+C:\Software-University\C# Fundamentals\Arrays\ConsoleApp1\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.dll
+C:\Software-University\C# Fundamentals\Arrays\ConsoleApp1\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.pdb
+C:\Software-University\C# Fundamentals\Arrays\ConsoleApp1\obj\Debug\netcoreapp3.1\02. Print Numbers in Reverse Order.genruntimeconfig.cache

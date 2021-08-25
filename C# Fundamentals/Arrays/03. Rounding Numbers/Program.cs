@@ -1,17 +1,28 @@
 ﻿using System;
-
+using System.Linq;
 namespace _03._Rounding_Numbers
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string[] nums = "1 2 3 pesho".Split(" ");
+            double[] nums = Console.ReadLine().Split().Select(double.Parse).ToArray();
+            int[] roundedNums = new int[nums.Length];
 
             for (int i = 0; i < nums.Length; i++)
             {
-                Console.WriteLine(nums[i]);
+                roundedNums[i] = (int)Math.Round(nums[i], MidpointRounding.AwayFromZero);
             }
+
+            for (int i = 0; i < roundedNums.Length; i++)
+            {
+                if (nums[i] == 0)
+                {
+                    nums[i] = 0;
+                }
+                Console.WriteLine($"{nums[i]} => {roundedNums[i]}");
+            }
+
         }
     }
 }

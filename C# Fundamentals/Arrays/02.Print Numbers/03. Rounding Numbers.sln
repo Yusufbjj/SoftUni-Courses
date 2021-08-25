@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Rounding Numbers", "..\03. Rounding Numbers\03. Rounding Numbers.csproj", "{841C7EFC-9777-451B-889B-0B9497F5F112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Reverse Array of Strings", "..\04. Reverse Array of Strings\04. Reverse Array of Strings.csproj", "{0C75F3A1-99CE-4622-A55F-06A4ED306391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Sum Even Numbers", "..\05. Sum Even Numbers\05. Sum Even Numbers.csproj", "{6A652CF9-DAD7-4E96-A2BD-904EE25E9ED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{841C7EFC-9777-451B-889B-0B9497F5F112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841C7EFC-9777-451B-889B-0B9497F5F112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841C7EFC-9777-451B-889B-0B9497F5F112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841C7EFC-9777-451B-889B-0B9497F5F112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C75F3A1-99CE-4622-A55F-06A4ED306391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C75F3A1-99CE-4622-A55F-06A4ED306391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C75F3A1-99CE-4622-A55F-06A4ED306391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C75F3A1-99CE-4622-A55F-06A4ED306391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A652CF9-DAD7-4E96-A2BD-904EE25E9ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A652CF9-DAD7-4E96-A2BD-904EE25E9ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A652CF9-DAD7-4E96-A2BD-904EE25E9ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A652CF9-DAD7-4E96-A2BD-904EE25E9ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7E7BFA1-0138-4506-88F7-C3E364DD6AB4}
+	EndGlobalSection
+EndGlobal

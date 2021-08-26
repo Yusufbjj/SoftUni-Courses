@@ -1,0 +1,14 @@
+C:\Software-University\C# Fundamentals\Arrays\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.exe
+C:\Software-University\C# Fundamentals\Arrays\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.deps.json
+C:\Software-University\C# Fundamentals\Arrays\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.runtimeconfig.json
+C:\Software-University\C# Fundamentals\Arrays\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.runtimeconfig.dev.json
+C:\Software-University\C# Fundamentals\Arrays\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.dll
+C:\Software-University\C# Fundamentals\Arrays\06. Even and Odd Subtraction\bin\Debug\netcoreapp3.1\06. Even and Odd Subtraction.pdb
+C:\Software-University\C# Fundamentals\Arrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.csproj.AssemblyReference.cache
+C:\Software-University\C# Fundamentals\Arrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-University\C# Fundamentals\Arrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.AssemblyInfoInputs.cache
+C:\Software-University\C# Fundamentals\Arrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.AssemblyInfo.cs
+C:\Software-University\C# Fundamentals\Arrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+C:\Software-University\C# Fundamentals\Arrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.dll
+C:\Software-University\C# Fundamentals\Arrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.pdb
+C:\Software-University\C# Fundamentals\Arrays\06. Even and Odd Subtraction\obj\Debug\netcoreapp3.1\06. Even and Odd Subtraction.genruntimeconfig.cache

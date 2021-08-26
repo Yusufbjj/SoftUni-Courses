@@ -9,7 +9,6 @@ namespace Reading_Array_Values_from_a_Single_Line
         {
             int[] arr = Console.ReadLine().Split(", ").Select(int.Parse).ToArray();
             Console.WriteLine(string.Join("-", arr));
-
         }
     }
 }

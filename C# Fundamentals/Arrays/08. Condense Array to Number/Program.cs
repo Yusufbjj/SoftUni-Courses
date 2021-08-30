@@ -8,9 +8,9 @@ namespace _08._Condense_Array_to_Number
         static void Main(string[] args)
         {
             int[] arr = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            int[] condensed = new int[arr.Length - 1];
             while (arr.Length > 1)
             {
-                int[] condensed = new int[arr.Length - 1];
                 for (int i = 0; i < arr.Length - 1; i++)
                 {
                     int firstElement = arr[i];
@@ -20,6 +20,7 @@ namespace _08._Condense_Array_to_Number
 
                 }
                 arr = condensed;
+                condensed = new int[arr.Length - 1];
             }
             Console.WriteLine(arr[0]);
         }

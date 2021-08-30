@@ -9,8 +9,8 @@ namespace _02._Gauss__Trick
         static void Main(string[] args)
         {
             List<int> number = Console.ReadLine().Split().Select(int.Parse).ToList();
-            int times = number.Count;
-            for (int i = 0; i < times / 2; i++)
+            int count = number.Count;
+            for (int i = 0; i < count / 2; i++)
             {
                 int first = number[i];
                 int last = number[number.Count - 1];

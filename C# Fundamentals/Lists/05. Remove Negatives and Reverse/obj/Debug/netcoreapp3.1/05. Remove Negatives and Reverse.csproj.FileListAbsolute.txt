@@ -1,0 +1,14 @@
+C:\Software-University\C# Fundamentals\Lists\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.exe
+C:\Software-University\C# Fundamentals\Lists\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.deps.json
+C:\Software-University\C# Fundamentals\Lists\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.runtimeconfig.json
+C:\Software-University\C# Fundamentals\Lists\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.runtimeconfig.dev.json
+C:\Software-University\C# Fundamentals\Lists\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.dll
+C:\Software-University\C# Fundamentals\Lists\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.pdb
+C:\Software-University\C# Fundamentals\Lists\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.csproj.AssemblyReference.cache
+C:\Software-University\C# Fundamentals\Lists\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-University\C# Fundamentals\Lists\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Software-University\C# Fundamentals\Lists\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Software-University\C# Fundamentals\Lists\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Software-University\C# Fundamentals\Lists\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.dll
+C:\Software-University\C# Fundamentals\Lists\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.pdb
+C:\Software-University\C# Fundamentals\Lists\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.genruntimeconfig.cache

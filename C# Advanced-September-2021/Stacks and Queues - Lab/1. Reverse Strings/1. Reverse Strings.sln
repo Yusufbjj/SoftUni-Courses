@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Reverse Strings", "1. Reverse Strings\1. Reverse Strings.csproj", "{861D35CD-88DD-4407-9272-5EB5BA398F2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Reverse Strings", "1. Reverse Strings\1. Reverse Strings.csproj", "{861D35CD-88DD-4407-9272-5EB5BA398F2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Stack Sum", "..\2. Stack Sum\2. Stack Sum\2. Stack Sum.csproj", "{7A4F8469-0CFD-4DAC-92C9-7341F86E1719}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{861D35CD-88DD-4407-9272-5EB5BA398F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{861D35CD-88DD-4407-9272-5EB5BA398F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{861D35CD-88DD-4407-9272-5EB5BA398F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4F8469-0CFD-4DAC-92C9-7341F86E1719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4F8469-0CFD-4DAC-92C9-7341F86E1719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4F8469-0CFD-4DAC-92C9-7341F86E1719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4F8469-0CFD-4DAC-92C9-7341F86E1719}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

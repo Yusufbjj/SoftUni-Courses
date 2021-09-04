@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Stack Sum", "2. Stack Sum\2. Stack Sum.csproj", "{22F58778-2E63-4035-924E-9707368AC03F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Reverse Strings", "..\1. Reverse Strings\1. Reverse Strings\1. Reverse Strings.csproj", "{05C9DBFA-9BF9-416E-A7B6-278F32900BF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22F58778-2E63-4035-924E-9707368AC03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F58778-2E63-4035-924E-9707368AC03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F58778-2E63-4035-924E-9707368AC03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F58778-2E63-4035-924E-9707368AC03F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05C9DBFA-9BF9-416E-A7B6-278F32900BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C9DBFA-9BF9-416E-A7B6-278F32900BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C9DBFA-9BF9-416E-A7B6-278F32900BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C9DBFA-9BF9-416E-A7B6-278F32900BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3160903-460D-4ACF-9A12-AC8C90ADF95B}
+	EndGlobalSection
+EndGlobal

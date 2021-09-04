@@ -1,0 +1,14 @@
+C:\Software-University\C# Advanced-September-2021\Stacks and Queues - Lab\2. Stack Sum\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.exe
+C:\Software-University\C# Advanced-September-2021\Stacks and Queues - Lab\2. Stack Sum\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.deps.json
+C:\Software-University\C# Advanced-September-2021\Stacks and Queues - Lab\2. Stack Sum\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.runtimeconfig.json
+C:\Software-University\C# Advanced-September-2021\Stacks and Queues - Lab\2. Stack Sum\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.runtimeconfig.dev.json
+C:\Software-University\C# Advanced-September-2021\Stacks and Queues - Lab\2. Stack Sum\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.dll
+C:\Software-University\C# Advanced-September-2021\Stacks and Queues - Lab\2. Stack Sum\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.pdb
+C:\Software-University\C# Advanced-September-2021\Stacks and Queues - Lab\2. Stack Sum\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.csproj.AssemblyReference.cache
+C:\Software-University\C# Advanced-September-2021\Stacks and Queues - Lab\2. Stack Sum\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-University\C# Advanced-September-2021\Stacks and Queues - Lab\2. Stack Sum\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.AssemblyInfoInputs.cache
+C:\Software-University\C# Advanced-September-2021\Stacks and Queues - Lab\2. Stack Sum\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.AssemblyInfo.cs
+C:\Software-University\C# Advanced-September-2021\Stacks and Queues - Lab\2. Stack Sum\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.csproj.CoreCompileInputs.cache
+C:\Software-University\C# Advanced-September-2021\Stacks and Queues - Lab\2. Stack Sum\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.dll
+C:\Software-University\C# Advanced-September-2021\Stacks and Queues - Lab\2. Stack Sum\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.pdb
+C:\Software-University\C# Advanced-September-2021\Stacks and Queues - Lab\2. Stack Sum\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.genruntimeconfig.cache

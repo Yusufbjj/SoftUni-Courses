@@ -11,9 +11,7 @@ namespace _6._Supermarket
             Queue<string> names = new Queue<string>();
 
             while (inputName != "End")
-            {
-                
-
+            {            
                 if (inputName == "Paid")
                 {
                     for (int i = names.Count; i > 0; i--)

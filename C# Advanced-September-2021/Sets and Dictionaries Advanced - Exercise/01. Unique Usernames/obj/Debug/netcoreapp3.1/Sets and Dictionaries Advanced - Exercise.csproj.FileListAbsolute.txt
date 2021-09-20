@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\bin\Debug\netcoreapp3.1\Sets and Dictionaries Advanced - Exercise.exe
+C:\Users\yusuf\source\repos\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\bin\Debug\netcoreapp3.1\Sets and Dictionaries Advanced - Exercise.deps.json
+C:\Users\yusuf\source\repos\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\bin\Debug\netcoreapp3.1\Sets and Dictionaries Advanced - Exercise.runtimeconfig.json
+C:\Users\yusuf\source\repos\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\bin\Debug\netcoreapp3.1\Sets and Dictionaries Advanced - Exercise.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\bin\Debug\netcoreapp3.1\Sets and Dictionaries Advanced - Exercise.dll
+C:\Users\yusuf\source\repos\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\bin\Debug\netcoreapp3.1\Sets and Dictionaries Advanced - Exercise.pdb
+C:\Users\yusuf\source\repos\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\obj\Debug\netcoreapp3.1\Sets and Dictionaries Advanced - Exercise.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\obj\Debug\netcoreapp3.1\Sets and Dictionaries Advanced - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\obj\Debug\netcoreapp3.1\Sets and Dictionaries Advanced - Exercise.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\obj\Debug\netcoreapp3.1\Sets and Dictionaries Advanced - Exercise.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\obj\Debug\netcoreapp3.1\Sets and Dictionaries Advanced - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\obj\Debug\netcoreapp3.1\Sets and Dictionaries Advanced - Exercise.dll
+C:\Users\yusuf\source\repos\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\obj\Debug\netcoreapp3.1\Sets and Dictionaries Advanced - Exercise.pdb
+C:\Users\yusuf\source\repos\Sets and Dictionaries Advanced - Exercise\Sets and Dictionaries Advanced - Exercise\obj\Debug\netcoreapp3.1\Sets and Dictionaries Advanced - Exercise.genruntimeconfig.cache

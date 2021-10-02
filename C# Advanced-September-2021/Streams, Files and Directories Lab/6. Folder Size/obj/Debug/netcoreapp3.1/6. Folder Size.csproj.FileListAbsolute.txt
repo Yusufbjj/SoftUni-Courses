@@ -1,0 +1,13 @@
+C:\Users\yusuf\source\repos\Streams, Files and Directories Lab\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.exe
+C:\Users\yusuf\source\repos\Streams, Files and Directories Lab\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.deps.json
+C:\Users\yusuf\source\repos\Streams, Files and Directories Lab\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.runtimeconfig.json
+C:\Users\yusuf\source\repos\Streams, Files and Directories Lab\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\Streams, Files and Directories Lab\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.dll
+C:\Users\yusuf\source\repos\Streams, Files and Directories Lab\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.pdb
+C:\Users\yusuf\source\repos\Streams, Files and Directories Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\Streams, Files and Directories Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\Streams, Files and Directories Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\Streams, Files and Directories Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Streams, Files and Directories Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.dll
+C:\Users\yusuf\source\repos\Streams, Files and Directories Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.pdb
+C:\Users\yusuf\source\repos\Streams, Files and Directories Lab\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.genruntimeconfig.cache

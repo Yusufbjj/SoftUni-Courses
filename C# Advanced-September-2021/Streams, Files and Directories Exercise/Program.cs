@@ -10,6 +10,11 @@ namespace Streams__Files_and_Directories_Exercise
     {
         static void Main(string[] args)
         {
+            
+        }
+
+        private static void Zip()
+        {
             string sourceDirectory = @"C:\Users\yusuf\OneDrive\Desktop\myFolder";
             string targetDirectory = @"C:\Users\yusuf\OneDrive\Desktop\result12.zip";
             string destinationDirectory = @"C:\Users\yusuf\OneDrive\Desktop\result12";

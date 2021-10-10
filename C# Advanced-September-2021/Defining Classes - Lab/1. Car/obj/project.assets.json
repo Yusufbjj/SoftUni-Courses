@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yusuf\\source\\repos\\Defining Classes - Lab\\1. Car\\1. Car.csproj",
-      "projectName": "1. Car",
-      "projectPath": "C:\\Users\\yusuf\\source\\repos\\Defining Classes - Lab\\1. Car\\1. Car.csproj",
+      "projectUniqueName": "C:\\Users\\yusuf\\source\\repos\\Defining Classes - Lab\\1. Car\\Car.csproj",
+      "projectName": "Car",
+      "projectPath": "C:\\Users\\yusuf\\source\\repos\\Defining Classes - Lab\\1. Car\\Car.csproj",
       "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\yusuf\\source\\repos\\Defining Classes - Lab\\1. Car\\obj\\",
       "projectStyle": "PackageReference",

@@ -15,6 +15,19 @@ namespace CarManufacturer
         public double FuelQuantity { get; set; }
         public double FuelConsumption { get; set; }
 
+        private Tire[] tires;
+        private Engine engine;
+
+        public Tire[] Tires { get; set; }
+
+        public Engine Engine { get; set; }
+
+        public Car(string make, string model, int year, double fuelQuantity, double fuelConsumption, Engine engine, Tire[] tires) : this(make, model, year, fuelQuantity, fuelConsumption)
+        {
+            Engine = engine;
+            Tires = tires;
+        }
+
         public Car()
         {
             Make = "VW";
@@ -52,7 +65,7 @@ namespace CarManufacturer
         public string WhoAmI()
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append($"Make: {Make}\nModel: {Model}\nYear: {Year}\nFuelQuantity: {FuelQuantity:F2}L");
+            sb.Append($"Make: {Make}\nModel: {Model}\nYear: {Year}\nHorsePowers: {Engine.HorsePower}\nFuelQuantity: {FuelQuantity}");
             return sb.ToString();
         }
 

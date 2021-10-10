@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\Classes.exe
+C:\Users\yusuf\source\repos\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\Classes.deps.json
+C:\Users\yusuf\source\repos\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+C:\Users\yusuf\source\repos\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\Classes.dll
+C:\Users\yusuf\source\repos\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\yusuf\source\repos\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\Classes.dll
+C:\Users\yusuf\source\repos\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\yusuf\source\repos\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp3.1\Classes.csproj.AssemblyReference.cache

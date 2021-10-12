@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\GenericsLab\ArrayCreator\bin\Debug\netcoreapp3.1\ArrayCreator.exe
+C:\Users\yusuf\source\repos\GenericsLab\ArrayCreator\bin\Debug\netcoreapp3.1\ArrayCreator.deps.json
+C:\Users\yusuf\source\repos\GenericsLab\ArrayCreator\bin\Debug\netcoreapp3.1\ArrayCreator.runtimeconfig.json
+C:\Users\yusuf\source\repos\GenericsLab\ArrayCreator\bin\Debug\netcoreapp3.1\ArrayCreator.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\GenericsLab\ArrayCreator\bin\Debug\netcoreapp3.1\ArrayCreator.dll
+C:\Users\yusuf\source\repos\GenericsLab\ArrayCreator\bin\Debug\netcoreapp3.1\ArrayCreator.pdb
+C:\Users\yusuf\source\repos\GenericsLab\ArrayCreator\obj\Debug\netcoreapp3.1\ArrayCreator.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\GenericsLab\ArrayCreator\obj\Debug\netcoreapp3.1\ArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\GenericsLab\ArrayCreator\obj\Debug\netcoreapp3.1\ArrayCreator.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\GenericsLab\ArrayCreator\obj\Debug\netcoreapp3.1\ArrayCreator.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\GenericsLab\ArrayCreator\obj\Debug\netcoreapp3.1\ArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\GenericsLab\ArrayCreator\obj\Debug\netcoreapp3.1\ArrayCreator.dll
+C:\Users\yusuf\source\repos\GenericsLab\ArrayCreator\obj\Debug\netcoreapp3.1\ArrayCreator.pdb
+C:\Users\yusuf\source\repos\GenericsLab\ArrayCreator\obj\Debug\netcoreapp3.1\ArrayCreator.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\ExamPreparationExercises\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.exe
+C:\Users\yusuf\source\repos\ExamPreparationExercises\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.deps.json
+C:\Users\yusuf\source\repos\ExamPreparationExercises\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.json
+C:\Users\yusuf\source\repos\ExamPreparationExercises\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\ExamPreparationExercises\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.dll
+C:\Users\yusuf\source\repos\ExamPreparationExercises\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.pdb
+C:\Users\yusuf\source\repos\ExamPreparationExercises\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercises\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\ExamPreparationExercises\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercises\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\ExamPreparationExercises\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercises\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.dll
+C:\Users\yusuf\source\repos\ExamPreparationExercises\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.pdb
+C:\Users\yusuf\source\repos\ExamPreparationExercises\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.genruntimeconfig.cache

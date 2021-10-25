@@ -1,0 +1,14 @@
+C:\Users\yusuf\OneDrive\Desktop\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.exe
+C:\Users\yusuf\OneDrive\Desktop\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.deps.json
+C:\Users\yusuf\OneDrive\Desktop\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Desktop\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.dev.json
+C:\Users\yusuf\OneDrive\Desktop\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.dll
+C:\Users\yusuf\OneDrive\Desktop\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Users\yusuf\OneDrive\Desktop\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Desktop\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Desktop\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Desktop\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Desktop\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Desktop\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.dll
+C:\Users\yusuf\OneDrive\Desktop\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Users\yusuf\OneDrive\Desktop\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.genruntimeconfig.cache

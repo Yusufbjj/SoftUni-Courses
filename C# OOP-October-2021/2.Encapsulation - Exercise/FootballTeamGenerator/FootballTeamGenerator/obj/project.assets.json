@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yusuf\\source\\repos\\Encapsulation - Exercise\\FootballTeamGenerator\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
+      "projectUniqueName": "C:\\Software-University\\C# OOP-October-2021\\2.Encapsulation - Exercise\\FootballTeamGenerator\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
       "projectName": "FootballTeamGenerator",
-      "projectPath": "C:\\Users\\yusuf\\source\\repos\\Encapsulation - Exercise\\FootballTeamGenerator\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
+      "projectPath": "C:\\Software-University\\C# OOP-October-2021\\2.Encapsulation - Exercise\\FootballTeamGenerator\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
       "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yusuf\\source\\repos\\Encapsulation - Exercise\\FootballTeamGenerator\\FootballTeamGenerator\\obj\\",
+      "outputPath": "C:\\Software-University\\C# OOP-October-2021\\2.Encapsulation - Exercise\\FootballTeamGenerator\\FootballTeamGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",

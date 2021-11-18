@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.1\Stealer.exe
+C:\Users\yusuf\source\repos\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.1\Stealer.deps.json
+C:\Users\yusuf\source\repos\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.json
+C:\Users\yusuf\source\repos\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.1\Stealer.dll
+C:\Users\yusuf\source\repos\Reflection and Attributes - Lab\Stealer\bin\Debug\netcoreapp3.1\Stealer.pdb
+C:\Users\yusuf\source\repos\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.dll
+C:\Users\yusuf\source\repos\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.pdb
+C:\Users\yusuf\source\repos\Reflection and Attributes - Lab\Stealer\obj\Debug\netcoreapp3.1\Stealer.genruntimeconfig.cache

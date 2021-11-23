@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildFarm", "WildFarm\WildFarm.csproj", "{FBC6896B-1EC7-4DD3-A225-E592F015A721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC6896B-1EC7-4DD3-A225-E592F015A721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC6896B-1EC7-4DD3-A225-E592F015A721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC6896B-1EC7-4DD3-A225-E592F015A721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC6896B-1EC7-4DD3-A225-E592F015A721}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DD1277A-CA41-401A-B0CB-8ECFDBAC034E}
+	EndGlobalSection
+EndGlobal

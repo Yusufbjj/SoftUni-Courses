@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\15 August 2021\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\15 August 2021\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\15 August 2021\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\15 August 2021\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\15 August 2021\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\15 August 2021\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\15 August 2021\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\15 August 2021\Robots\obj\Debug\netcoreapp3.0\Robots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\15 August 2021\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\15 August 2021\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\15 August 2021\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\15 August 2021\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\15 August 2021\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\15 August 2021\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache

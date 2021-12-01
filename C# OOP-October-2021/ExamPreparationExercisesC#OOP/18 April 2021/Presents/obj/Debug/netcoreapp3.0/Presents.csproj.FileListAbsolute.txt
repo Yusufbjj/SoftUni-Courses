@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\18 April 2021\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\18 April 2021\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\18 April 2021\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\18 April 2021\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\18 April 2021\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\18 April 2021\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\18 April 2021\Presents\obj\Debug\netcoreapp3.0\Presents.genruntimeconfig.cache

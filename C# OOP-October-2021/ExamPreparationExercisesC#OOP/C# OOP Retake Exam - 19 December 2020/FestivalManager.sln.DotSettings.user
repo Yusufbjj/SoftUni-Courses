@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4bf5fea7_002D21bd_002D49ba_002D9b70_002D3f9b28a10b2e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddSong_ThrowsArgumentException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CDD9094C-5BD0-4FF5-8FAC-F6E50F878DC0::.NETCoreApp,Version=v3.1::FestivalManager.Tests.StageTests.AddSong_ThrowsArgumentException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CDD9094C-5BD0-4FF5-8FAC-F6E50F878DC0::.NETCoreApp,Version=v3.1::FestivalManager.Tests.StageTests.Play_ReturnsPerformersCountAndSongsCount&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CDD9094C-5BD0-4FF5-8FAC-F6E50F878DC0::.NETCoreApp,Version=v3.1::FestivalManager.Tests.StageTests.GetPerformer_ThrowsArgumentExceptionWhenPerformerDoesNotExist&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CDD9094C-5BD0-4FF5-8FAC-F6E50F878DC0::.NETCoreApp,Version=v3.1::FestivalManager.Tests.StageTests.GetPerformer_PerformerNotExist&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=76a87e7b_002Dfdac_002D47ff_002Db6ef_002Dcd61690dbad4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="StageTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CDD9094C-5BD0-4FF5-8FAC-F6E50F878DC0::.NETCoreApp,Version=v3.1::FestivalManager.Tests.StageTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e94de8af_002D8b69_002D42a8_002Da6cd_002Dd547728bbd9a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddSong_IsAdded" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CDD9094C-5BD0-4FF5-8FAC-F6E50F878DC0::.NETCoreApp,Version=v3.1::FestivalManager.Tests.StageTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

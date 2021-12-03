@@ -1,9 +1,0 @@
-﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=09d33332_002D4cb7_002D468c_002D8272_002Dc42252924d37/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Capacity_Get" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::981C1A4C-974B-4253-BA45-5E59051C5E98::.NETCoreApp,Version=v3.0::Robots.Tests.RobotsTests.Capacity_Get&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::981C1A4C-974B-4253-BA45-5E59051C5E98::.NETCoreApp,Version=v3.0::Robots.Tests.RobotsTests.Capacity_ThrowExeption&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::981C1A4C-974B-4253-BA45-5E59051C5E98::.NETCoreApp,Version=v3.0::Robots.Tests.RobotsTests.Count_GetCount&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::981C1A4C-974B-4253-BA45-5E59051C5E98::.NETCoreApp,Version=v3.0::Robots.Tests.RobotsTests.Work_ThrowException&lt;/TestId&gt;&#xD;
-  &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

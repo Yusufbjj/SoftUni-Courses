@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 12 December 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 12 December 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 12 December 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 12 December 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 12 December 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 12 December 2020\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 12 December 2020\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache

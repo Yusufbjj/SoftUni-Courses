@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1c6d1a65_002D82bb_002D4273_002D9c78_002D71a2084fbc81/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddDriver" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42719488-AD6B-48B7-ACCC-194200677A8F::.NETCoreApp,Version=v3.1::TheRace.Tests.RaceEntryTests.AddDriver&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=56fab164_002D3195_002D453e_002D9027_002D674456e774ef/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Counter" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42719488-AD6B-48B7-ACCC-194200677A8F::.NETCoreApp,Version=v3.1::TheRace.Tests.RaceEntryTests.Counter&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::42719488-AD6B-48B7-ACCC-194200677A8F::.NETCoreApp,Version=v3.1::TheRace.Tests.RaceEntryTests.CalculateAverageHorsePower_CannotStart&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.exe
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.deps.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.dll
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.dll
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#OOP\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.genruntimeconfig.cache

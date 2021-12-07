@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a840297c_002D970e_002D4e59_002D9620_002D651bcc02c4c2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddComputer_Added" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F65F8D78-43B0-4652-A424-1EA9ADBE0F15::.NETCoreApp,Version=v3.1::Computers.Tests.Tests.AddComputer_Added&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F65F8D78-43B0-4652-A424-1EA9ADBE0F15::.NETCoreApp,Version=v3.1::Computers.Tests.Tests.GetComputersByManufacturer&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F65F8D78-43B0-4652-A424-1EA9ADBE0F15::.NETCoreApp,Version=v3.1::Computers.Tests.Tests.AddComputer_CantBeNull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F65F8D78-43B0-4652-A424-1EA9ADBE0F15::.NETCoreApp,Version=v3.1::Computers.Tests.Tests.GetComputer_ArgumentException&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ef695263_002Da3a9_002D46be_002D9c80_002D9c1e4e37cec2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetComputer_CantBeNull" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::F65F8D78-43B0-4652-A424-1EA9ADBE0F15::.NETCoreApp,Version=v3.1::Computers.Tests.Tests.GetComputer_CantBeNull&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

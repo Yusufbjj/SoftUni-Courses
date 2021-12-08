@@ -6,18 +6,23 @@ namespace OnlineShop.Models.Products.Components
 {
     public abstract class Component : Product, IComponent
     {
-
-        protected Component(int id, string manufacturer, string model, decimal price, double overallPerformance, int generation)
+        private int generation;
+        protected Component(int id, string manufacturer, string model, decimal price, double overallPerformance, int generation) 
             : base(id, manufacturer, model, price, overallPerformance)
         {
             this.Generation = generation;
         }
 
-        public int Generation { get; private set; }
+        public int Generation
+        {
+            get => this.generation;
+            private set => this.generation = value;
+        }
 
         public override string ToString()
         {
-            return $"  Overall Performance: {OverallPerformance:F2}. Price: {Price:F2} - {this.GetType().Name}: {Manufacturer} {Model} (Id: {Id}) Generation: {Generation}";
+            return $"Overall Performance: {this.OverallPerformance:f2}. Price: {this.Price:f2} - {this.GetType().Name}: {this.Manufacturer} {this.Model} (Id: {this.Id}) Generation: {this.Generation}";
+            // dali ne e base. tuk???
         }
     }
 }

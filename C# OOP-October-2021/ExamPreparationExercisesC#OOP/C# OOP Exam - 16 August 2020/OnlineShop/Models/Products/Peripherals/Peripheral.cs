@@ -6,18 +6,22 @@ namespace OnlineShop.Models.Products.Peripherals
 {
     public abstract class Peripheral : Product, IPeripheral
     {
+        private string connectionType;
         protected Peripheral(int id, string manufacturer, string model, decimal price, double overallPerformance, string connectionType) 
             : base(id, manufacturer, model, price, overallPerformance)
         {
-            ConnectionType = connectionType;
+            this.ConnectionType = connectionType;
         }
 
-        public string ConnectionType { get; private set; }
+        public string ConnectionType
+        {
+            get => this.connectionType;
+            private set => this.connectionType = value;
+        }
 
         public override string ToString()
         {
-            return
-                $"  Overall Performance: {OverallPerformance:F2}. Price: {Price:F2} - {this.GetType().Name}: {Manufacturer} {Model} (Id: {Id}) Connection Type: {ConnectionType}";
+            return $"Overall Performance: {this.OverallPerformance:f2}. Price: {this.Price:f2} - {this.GetType().Name}: {this.Manufacturer} {this.Model} (Id: {this.Id}) Connection Type: {this.ConnectionType}";
         }
     }
 }

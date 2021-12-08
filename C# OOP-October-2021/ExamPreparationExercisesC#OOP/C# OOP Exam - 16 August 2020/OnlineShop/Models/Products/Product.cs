@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OnlineShop.Common.Constants;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -12,7 +13,7 @@ namespace OnlineShop.Models.Products
         private decimal price;
         private double overallPerformance;
 
-        protected Product(int id, string manufacturer, string model, decimal price, double overallPerformance)
+        public Product(int id, string manufacturer, string model, decimal price, double overallPerformance)
         {
             this.Id = id;
             this.Manufacturer = manufacturer;
@@ -20,7 +21,6 @@ namespace OnlineShop.Models.Products
             this.Price = price;
             this.OverallPerformance = overallPerformance;
         }
-
         public int Id
         {
             get => this.id;
@@ -28,9 +28,8 @@ namespace OnlineShop.Models.Products
             {
                 if (value <= 0)
                 {
-                    throw new ArgumentException("Id can not be less or equal than 0.");
+                    throw new ArgumentException(ExceptionMessages.InvalidProductId);
                 }
-
                 this.id = value;
             }
         }
@@ -42,9 +41,8 @@ namespace OnlineShop.Models.Products
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentException("Manufacturer can not be empty.");
+                    throw new ArgumentException(ExceptionMessages.InvalidManufacturer);
                 }
-
                 this.manufacturer = value;
             }
         }
@@ -56,42 +54,43 @@ namespace OnlineShop.Models.Products
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentException("Model can not be empty.");
+                    throw new ArgumentException(ExceptionMessages.InvalidModel);
                 }
-
                 this.model = value;
             }
         }
-        public virtual decimal Price
+
+        public decimal Price
         {
             get => this.price;
-            protected set
+            private set
             {
                 if (value <= 0)
                 {
-                    throw new ArgumentException("Price can not be less or equal than 0.");
+                    throw new ArgumentException(ExceptionMessages.InvalidPrice);
                 }
-
                 this.price = value;
             }
         }
-        public virtual double OverallPerformance
+
+        public double OverallPerformance
         {
             get => this.overallPerformance;
-            protected set
+            private set
             {
                 if (value <= 0)
                 {
-                    throw new ArgumentException("Overall Performance can not be less or equal than 0.");
+                    throw new ArgumentException(ExceptionMessages.InvalidOverallPerformance);
                 }
-
                 this.overallPerformance = value;
             }
         }
 
         public override string ToString()
         {
-            return $"Overall Performance: {OverallPerformance}. Price: {Price} - {this.GetType().Name}: {Manufacturer} {Model} (Id: {Id})";
+            return $"Overall Performance: {this.OverallPerformance}. Price: {this.Price} - {this.GetType().Name}: {this.Manufacturer} {this.Model} (Id: {this.Id})";
+
         }
+
     }
 }

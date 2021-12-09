@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\2.Re-Volt\2.Re-Volt\bin\Debug\netcoreapp3.1\2.Re-Volt.exe
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\2.Re-Volt\2.Re-Volt\bin\Debug\netcoreapp3.1\2.Re-Volt.deps.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\2.Re-Volt\2.Re-Volt\bin\Debug\netcoreapp3.1\2.Re-Volt.runtimeconfig.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\2.Re-Volt\2.Re-Volt\bin\Debug\netcoreapp3.1\2.Re-Volt.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\2.Re-Volt\2.Re-Volt\bin\Debug\netcoreapp3.1\2.Re-Volt.dll
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\2.Re-Volt\2.Re-Volt\bin\Debug\netcoreapp3.1\2.Re-Volt.pdb
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\2.Re-Volt\2.Re-Volt\obj\Debug\netcoreapp3.1\2.Re-Volt.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\2.Re-Volt\2.Re-Volt\obj\Debug\netcoreapp3.1\2.Re-Volt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\2.Re-Volt\2.Re-Volt\obj\Debug\netcoreapp3.1\2.Re-Volt.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\2.Re-Volt\2.Re-Volt\obj\Debug\netcoreapp3.1\2.Re-Volt.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\2.Re-Volt\2.Re-Volt\obj\Debug\netcoreapp3.1\2.Re-Volt.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\2.Re-Volt\2.Re-Volt\obj\Debug\netcoreapp3.1\2.Re-Volt.dll
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\2.Re-Volt\2.Re-Volt\obj\Debug\netcoreapp3.1\2.Re-Volt.pdb
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\2.Re-Volt\2.Re-Volt\obj\Debug\netcoreapp3.1\2.Re-Volt.genruntimeconfig.cache

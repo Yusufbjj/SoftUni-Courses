@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\Guild\bin\Debug\netcoreapp3.0\Guild.exe
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\Guild\bin\Debug\netcoreapp3.0\Guild.deps.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\Guild\bin\Debug\netcoreapp3.0\Guild.dll
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\Guild\bin\Debug\netcoreapp3.0\Guild.pdb
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\Guild\obj\Debug\netcoreapp3.0\Guild.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\Guild\obj\Debug\netcoreapp3.0\Guild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\Guild\obj\Debug\netcoreapp3.0\Guild.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\Guild\obj\Debug\netcoreapp3.0\Guild.dll
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\Guild\obj\Debug\netcoreapp3.0\Guild.pdb
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\Guild\obj\Debug\netcoreapp3.0\Guild.genruntimeconfig.cache

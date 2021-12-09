@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Opening\bin\Debug\netcoreapp3.1\BakeryOpenning.exe
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Opening\bin\Debug\netcoreapp3.1\BakeryOpenning.deps.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Opening\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Opening\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Opening\bin\Debug\netcoreapp3.1\BakeryOpenning.dll
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Opening\bin\Debug\netcoreapp3.1\BakeryOpenning.pdb
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Opening\obj\Debug\netcoreapp3.1\BakeryOpenning.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Opening\obj\Debug\netcoreapp3.1\BakeryOpenning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Opening\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Opening\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Opening\obj\Debug\netcoreapp3.1\BakeryOpenning.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Opening\obj\Debug\netcoreapp3.1\BakeryOpenning.dll
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Opening\obj\Debug\netcoreapp3.1\BakeryOpenning.pdb
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Opening\obj\Debug\netcoreapp3.1\BakeryOpenning.genruntimeconfig.cache

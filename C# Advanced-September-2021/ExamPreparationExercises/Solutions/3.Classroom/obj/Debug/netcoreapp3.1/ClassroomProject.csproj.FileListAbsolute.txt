@@ -1,0 +1,13 @@
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.exe
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.deps.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.dll
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Classroom\bin\Debug\netcoreapp3.1\ClassroomProject.pdb
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.dll
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.pdb
+C:\Users\yusuf\source\repos\ExamPreparationExercisesC#Advanced\3.Classroom\obj\Debug\netcoreapp3.1\ClassroomProject.genruntimeconfig.cache

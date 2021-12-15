@@ -1,158 +1,112 @@
 ﻿using System;
-using Microsoft.VisualBasic.CompilerServices;
 
-namespace _02._Pawn_Wars
+namespace PawnWars
 {
-    class Program
+    class PawnWars
     {
         static void Main(string[] args)
         {
-        /*  ------b-
-            --------
-            --------
-            --------
-            --------
-            -w------
-            --------
-            --------         */
-
-
-            int n = 8;
-            char[,] chessBoard = new char[n, n];
-
-            int whitePawnRow = 0;
-            int whitePawnCol = 0;
-            int blackPawnRow = 0;
-            int blackPawnCol = 0;
-
-            char[] chessCols = new char[8] { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h' };
-
-
-            for (int row = 0; row < n; row++)
+            char[,] chessboard = new char[8, 8];
+            for (int i = 0; i < chessboard.GetLength(0); i++)
             {
-                string currentRow = Console.ReadLine();
-                for (int col = 0; col < currentRow.Length; col++)
+                string row = Console.ReadLine();
+
+                for (int j = 0; j < chessboard.GetLength(1); j++)
                 {
-                    chessBoard[row, col] = currentRow[col];
-                    if (chessBoard[row, col] == 'w')
+                    chessboard[i, j] = row[j];
+                }
+            }
+
+            int whiteRowIdx = 0;
+            int whiteColIdx = 0;
+            int blackRowIdx = 0;
+            int blackColIdx = 0;
+            for (int i = 0; i < chessboard.GetLength(0); i++)
+            {
+                for (int j = 0; j < chessboard.GetLength(1); j++)
+                {
+                    if (chessboard[i, j] == 'w')
                     {
-                        whitePawnRow = row;
-                        whitePawnCol = col;
+                        whiteRowIdx = i;
+                        whiteColIdx = j;
                     }
 
-                    if (chessBoard[row, col] == 'b')
+                    if (chessboard[i, j] == 'b')
                     {
-                        blackPawnRow = row;
-                        blackPawnCol = col;
+                        blackRowIdx = i;
+                        blackColIdx = j;
                     }
                 }
             }
 
+            int turnCounter = 0;
             while (true)
             {
-                if (isPositionValid(whitePawnRow - 1, whitePawnCol - 1, n, n))
+                if (turnCounter % 2 == 0)
                 {
-
-                    if (chessBoard[whitePawnRow - 1, whitePawnCol - 1] == 'b')
+                    if (ValidatePosition(chessboard, whiteRowIdx - 1, whiteColIdx - 1))
                     {
-                        Console.WriteLine($"Game over! White capture on {chessCols[whitePawnCol - 1]}{8 - (whitePawnRow - 1)}.");
-                        break;
-                    }
-                }
-
-                if (isPositionValid(whitePawnRow - 1, whitePawnCol + 1, n, n))
-                {
-
-                    if (chessBoard[whitePawnRow - 1, whitePawnCol + 1] == 'b')
-                    {
-                        if (whitePawnRow == 1)
+                        if (chessboard[whiteRowIdx - 1, whiteColIdx - 1] == 'b')
                         {
-                            whitePawnRow++;
+                            Console.WriteLine($"Game over! White capture on {(char)(blackColIdx + 97)}{8 - blackRowIdx}.");
+                            return;
                         }
-                        Console.WriteLine($"Game over! White capture on {chessCols[whitePawnCol + 1]}{8 - (whitePawnRow - 1)}.");
-                        break;
                     }
-                }
-
-                if (isPositionValid(whitePawnRow, whitePawnCol, n, n))
-                {
-
-
-                    chessBoard[whitePawnRow, whitePawnCol] = '-';
-                    whitePawnRow = MoveRow(whitePawnRow, "up");
-
-                    if (whitePawnRow == 0)
+                    if (ValidatePosition(chessboard, whiteRowIdx - 1, whiteColIdx + 1))
                     {
-                        whitePawnRow++;
-                        Console.WriteLine($"Game over! White pawn is promoted to a queen at {chessCols[whitePawnCol]}{8 - (whitePawnRow - 1)}.");
-                        break;
+                        if (chessboard[whiteRowIdx - 1, whiteColIdx + 1] == 'b')
+                        {
+                            Console.WriteLine($"Game over! White capture on {(char)(blackColIdx + 97)}{8 - blackRowIdx}.");
+                            return;
+                        }
                     }
-                }
 
-                if (isPositionValid(blackPawnRow - 1, blackPawnCol - 1, n, n))
-                {
-
-                    if (chessBoard[blackPawnRow - 1, blackPawnCol - 1] == 'w')
+                    chessboard[whiteRowIdx, whiteColIdx] = '-';
+                    whiteRowIdx--;
+                    if (whiteRowIdx == 0)
                     {
-                        Console.WriteLine($"Game over! White capture on {chessCols[blackPawnCol - 1]}{8 - (blackPawnRow - 1)}.");
-                        break;
+                        Console.WriteLine($"Game over! White pawn is promoted to a queen at {(char)(whiteColIdx + 97)}{8 - whiteRowIdx}.");
+                        return;
                     }
-                }
+                    chessboard[whiteRowIdx, whiteColIdx] = 'w';
 
-                if (isPositionValid(blackPawnRow - 1, blackPawnCol + 1, n, n))
+                }
+                else
                 {
-
-                    if (chessBoard[blackPawnRow - 1, blackPawnCol + 1] == 'w')
+                    if (ValidatePosition(chessboard, blackRowIdx + 1, blackColIdx + 1))
                     {
-                        Console.WriteLine($"Game over! White capture on {chessCols[blackPawnCol + 1]}{8 - (blackPawnRow - 1)}.");
-                        break;
+                        if (chessboard[blackRowIdx + 1, blackColIdx + 1] == 'w')
+                        {
+                            Console.WriteLine($"Game over! Black capture on {(char)(whiteColIdx + 97)}{8 - whiteRowIdx}.");
+                            return;
+                        }
                     }
+                    if (ValidatePosition(chessboard, blackRowIdx + 1, blackColIdx - 1))
+                    {
+                        if (chessboard[blackRowIdx + 1, blackColIdx - 1] == 'w')
+                        {
+                            Console.WriteLine($"Game over! Black capture on {(char)(whiteColIdx + 97)}{8 - whiteRowIdx}.");
+                            return;
+                        }
+                    }
+                    chessboard[blackRowIdx, blackColIdx] = '-';
+
+                    blackRowIdx++;
+                    if (blackRowIdx == 7)
+                    {
+                        Console.WriteLine($"Game over! Black pawn is promoted to a queen at {(char)(blackColIdx + 97)}{8 - blackRowIdx}.");
+                        return;
+                    }
+                    chessboard[blackRowIdx, blackColIdx] = 'b';
+
                 }
 
-                if (isPositionValid(blackPawnRow, blackPawnCol, n, n))
-                {
-
-
-                    chessBoard[blackPawnRow, blackPawnCol] = '-';
-                    blackPawnRow = MoveRow(blackPawnRow, "down");
-
-                    if (blackPawnRow == n - 1)
-                    {
-                        blackPawnRow++;
-                        Console.WriteLine($"Game over! Black pawn is promoted to a queen at {chessCols[blackPawnCol - 1]}{8 - (blackPawnRow - 1)}.");
-                        break;
-                    }
-
-                }
+                turnCounter++;
             }
         }
-        public static bool isPositionValid(int row, int col, int rows, int cols)
+        private static bool ValidatePosition(char[,] field, int attackPositionRow, int attackPositionCol)
         {
-            if (row < 0 || row >= rows)
-            {
-                return false;
-            }
-
-            if (col < 0 || col >= cols)
-            {
-                return false;
-            }
-
-            return true;
+            return (attackPositionRow >= 0 && attackPositionRow < field.GetLength(0)) && (attackPositionCol >= 0 && attackPositionCol < field.GetLength(1));
         }
-        public static int MoveRow(int row, string movement)
-        {
-            if (movement == "up")
-            {
-                return row - 1;
-            }
-
-            if (movement == "down")
-            {
-                return row + 1;
-            }
-            return row;
-        }
-
     }
 }

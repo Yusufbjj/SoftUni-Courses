@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\02. Import",
+    "\\02. Import\\DataProcessor",
+    "\\02. Import\\DataProcessor\\ImportDto"
+  ],
+  "SelectedNode": "\\02. Import\\DataProcessor\\Deserializer.cs",
+  "PreviewInSolutionExplorer": false
+}

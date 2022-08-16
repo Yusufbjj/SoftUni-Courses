@@ -7,4 +7,4 @@
 4.DataProcessor folder contains the import and export data transferable objects(DTOs) and the methods Deserialize(for importing data in the database)
 and Serialize(for exporting).
 
-5.Datasets contains the xml and json files from which we import inside the database.
+5.Datasets contains the xml and json files from which we import data inside the database.

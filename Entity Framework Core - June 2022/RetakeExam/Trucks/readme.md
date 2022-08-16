@@ -1,6 +1,6 @@
 1.This project contains the solution of my ef core exam from SoftUni.
 
-2.Based on the code first model we create a database , import data in it from xml and json files and then export. Data provider - SqlServer.
+2.Based on the code first model we create a database ,using Entity Framework Core, import data in it from xml and json files and then export. Data provider - SqlServer.
 
 3.All models(classes),enums are inside the Data folder for the entities.
 
